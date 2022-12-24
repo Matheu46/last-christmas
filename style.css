@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+
+html, body{
+  width: 100%;
+  height: 100%;
+}
+body{
+  margin: 0;
+}
+.sky {
+  height: 100%;
+  background: none repeat scroll 0 0 brown;
+  color: #FFF;
+  padding: 12px;
+  font-family: 'Carter One', cursive;
+  display: flex;
+  align-items: center;
+  
+}
+.sky h1{
+  font-family: 'Carter One', cursive;
+  font-size: 5rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+@media(max-width: 560px){
+  .sky h1{
+    font-size: 3rem;
+  }
+}

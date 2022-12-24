@@ -1,0 +1,161 @@
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char1 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 0.2s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char2 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 0.4s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char3 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 0.6s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char4 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 0.8s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char5 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 1s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char6 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 1.2s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char7 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 1.4s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char8 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 1.6s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char9 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 1.8s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char10 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 2s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char11 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 2.2s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char12 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 2.4s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char13 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 2.6s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char14 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 2.8s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char15 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 3s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char16 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 3.2s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char17 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 3.4s;
+}
+
+/* line 30, ../../../Projetos/last-christmas/scss/letras.scss */
+.char18 {
+  animation: rainbow 3s linear infinite;
+  animation-delay: 3.6s;
+}
+
+@keyframes rainbow {
+  0% {
+    color: red;
+    text-shadow: 0px 0px 0 #b80000, 1.5px -1px 0 #9c0000, 3px -2px 0 #950000, 4.5px -3px 0 #8e0000, 6px -4px 0 #880000, 7.5px -5px 0 #810000, 9px -6px 0 #7a0000, 10.5px -7px 0 #740000, 12px -8px 0 #6d0000, 13.5px -9px 0 #670000, 15px -10px 0 #600000, 16.5px -11px 0 #590000, 18px -12px 0 #530000, 19.5px -13px 0 #4c0000, 21px -14px 0 #450000, 22.5px -15px 0 #3f0000, 24px -16px 0 #380000, 25.5px -17px 0 #310000, 27px -18px 0 #2b0000, 0 0 52px rgba(255, 71, 71, 0.5), 0 0 55px rgba(255, 71, 71, 0.5);
+  }
+  10% {
+    color: #ff9900;
+    text-shadow: 0px 0px 0 #b86e00, 1.5px -1px 0 #9c5d00, 3px -2px 0 #955900, 4.5px -3px 0 #8e5500, 6px -4px 0 #885100, 7.5px -5px 0 #814d00, 9px -6px 0 #7a4900, 10.5px -7px 0 #744500, 12px -8px 0 #6d4100, 13.5px -9px 0 #673e00, 15px -10px 0 #603a00, 16.5px -11px 0 #593600, 18px -12px 0 #533200, 19.5px -13px 0 #4c2e00, 21px -14px 0 #452a00, 22.5px -15px 0 #3f2600, 24px -16px 0 #382200, 25.5px -17px 0 #311e00, 27px -18px 0 #2b1a00, 0 0 52px rgba(255, 182, 71, 0.5), 0 0 55px rgba(255, 182, 71, 0.5);
+  }
+  20% {
+    color: #ccff00;
+    text-shadow: 0px 0px 0 #93b800, 1.5px -1px 0 #7c9c00, 3px -2px 0 #779500, 4.5px -3px 0 #728e00, 6px -4px 0 #6d8800, 7.5px -5px 0 #678100, 9px -6px 0 #627a00, 10.5px -7px 0 #5d7400, 12px -8px 0 #576d00, 13.5px -9px 0 #526700, 15px -10px 0 #4d6000, 16.5px -11px 0 #475900, 18px -12px 0 #425300, 19.5px -13px 0 #3d4c00, 21px -14px 0 #374500, 22.5px -15px 0 #323f00, 24px -16px 0 #2d3800, 25.5px -17px 0 #283100, 27px -18px 0 #222b00, 0 0 52px rgba(218, 255, 71, 0.5), 0 0 55px rgba(218, 255, 71, 0.5);
+  }
+  30% {
+    color: #33ff00;
+    text-shadow: 0px 0px 0 #25b800, 1.5px -1px 0 #1f9c00, 3px -2px 0 #1e9500, 4.5px -3px 0 #1c8e00, 6px -4px 0 #1b8800, 7.5px -5px 0 #1a8100, 9px -6px 0 #187a00, 10.5px -7px 0 #177400, 12px -8px 0 #166d00, 13.5px -9px 0 #156700, 15px -10px 0 #136000, 16.5px -11px 0 #125900, 18px -12px 0 #115300, 19.5px -13px 0 #0f4c00, 21px -14px 0 #0e4500, 22.5px -15px 0 #0d3f00, 24px -16px 0 #0b3800, 25.5px -17px 0 #0a3100, 27px -18px 0 #092b00, 0 0 52px rgba(108, 255, 71, 0.5), 0 0 55px rgba(108, 255, 71, 0.5);
+  }
+  40% {
+    color: #00ff66;
+    text-shadow: 0px 0px 0 #00b849, 1.5px -1px 0 #009c3e, 3px -2px 0 #00953c, 4.5px -3px 0 #008e39, 6px -4px 0 #008836, 7.5px -5px 0 #008134, 9px -6px 0 #007a31, 10.5px -7px 0 #00742e, 12px -8px 0 #006d2c, 13.5px -9px 0 #006729, 15px -10px 0 #006026, 16.5px -11px 0 #005924, 18px -12px 0 #005321, 19.5px -13px 0 #004c1e, 21px -14px 0 #00451c, 22.5px -15px 0 #003f19, 24px -16px 0 #003816, 25.5px -17px 0 #003114, 27px -18px 0 #002b11, 0 0 52px rgba(71, 255, 145, 0.5), 0 0 55px rgba(71, 255, 145, 0.5);
+  }
+  50% {
+    color: cyan;
+    text-shadow: 0px 0px 0 #00b8b8, 1.5px -1px 0 #009c9c, 3px -2px 0 #009595, 4.5px -3px 0 #008e8e, 6px -4px 0 #008888, 7.5px -5px 0 #008181, 9px -6px 0 #007a7a, 10.5px -7px 0 #007474, 12px -8px 0 #006d6d, 13.5px -9px 0 #006767, 15px -10px 0 #006060, 16.5px -11px 0 #005959, 18px -12px 0 #005353, 19.5px -13px 0 #004c4c, 21px -14px 0 #004545, 22.5px -15px 0 #003f3f, 24px -16px 0 #003838, 25.5px -17px 0 #003131, 27px -18px 0 #002b2b, 0 0 52px rgba(71, 255, 255, 0.5), 0 0 55px rgba(71, 255, 255, 0.5);
+  }
+  60% {
+    color: #0066ff;
+    text-shadow: 0px 0px 0 #0049b8, 1.5px -1px 0 #003e9c, 3px -2px 0 #003c95, 4.5px -3px 0 #00398e, 6px -4px 0 #003688, 7.5px -5px 0 #003481, 9px -6px 0 #00317a, 10.5px -7px 0 #002e74, 12px -8px 0 #002c6d, 13.5px -9px 0 #002967, 15px -10px 0 #002660, 16.5px -11px 0 #002459, 18px -12px 0 #002153, 19.5px -13px 0 #001e4c, 21px -14px 0 #001c45, 22.5px -15px 0 #00193f, 24px -16px 0 #001638, 25.5px -17px 0 #001431, 27px -18px 0 #00112b, 0 0 52px rgba(71, 145, 255, 0.5), 0 0 55px rgba(71, 145, 255, 0.5);
+  }
+  70% {
+    color: #3300ff;
+    text-shadow: 0px 0px 0 #2500b8, 1.5px -1px 0 #1f009c, 3px -2px 0 #1e0095, 4.5px -3px 0 #1c008e, 6px -4px 0 #1b0088, 7.5px -5px 0 #1a0081, 9px -6px 0 #18007a, 10.5px -7px 0 #170074, 12px -8px 0 #16006d, 13.5px -9px 0 #150067, 15px -10px 0 #130060, 16.5px -11px 0 #120059, 18px -12px 0 #110053, 19.5px -13px 0 #0f004c, 21px -14px 0 #0e0045, 22.5px -15px 0 #0d003f, 24px -16px 0 #0b0038, 25.5px -17px 0 #0a0031, 27px -18px 0 #09002b, 0 0 52px rgba(108, 71, 255, 0.5), 0 0 55px rgba(108, 71, 255, 0.5);
+  }
+  80% {
+    color: #cc00ff;
+    text-shadow: 0px 0px 0 #9300b8, 1.5px -1px 0 #7c009c, 3px -2px 0 #770095, 4.5px -3px 0 #72008e, 6px -4px 0 #6d0088, 7.5px -5px 0 #670081, 9px -6px 0 #62007a, 10.5px -7px 0 #5d0074, 12px -8px 0 #57006d, 13.5px -9px 0 #520067, 15px -10px 0 #4d0060, 16.5px -11px 0 #470059, 18px -12px 0 #420053, 19.5px -13px 0 #3d004c, 21px -14px 0 #370045, 22.5px -15px 0 #32003f, 24px -16px 0 #2d0038, 25.5px -17px 0 #280031, 27px -18px 0 #22002b, 0 0 52px rgba(218, 71, 255, 0.5), 0 0 55px rgba(218, 71, 255, 0.5);
+  }
+  90% {
+    color: #ff0099;
+    text-shadow: 0px 0px 0 #b8006e, 1.5px -1px 0 #9c005d, 3px -2px 0 #950059, 4.5px -3px 0 #8e0055, 6px -4px 0 #880051, 7.5px -5px 0 #81004d, 9px -6px 0 #7a0049, 10.5px -7px 0 #740045, 12px -8px 0 #6d0041, 13.5px -9px 0 #67003e, 15px -10px 0 #60003a, 16.5px -11px 0 #590036, 18px -12px 0 #530032, 19.5px -13px 0 #4c002e, 21px -14px 0 #45002a, 22.5px -15px 0 #3f0026, 24px -16px 0 #380022, 25.5px -17px 0 #31001e, 27px -18px 0 #2b001a, 0 0 52px rgba(255, 71, 182, 0.5), 0 0 55px rgba(255, 71, 182, 0.5);
+  }
+  100% {
+    color: red;
+    text-shadow: 0px 0px 0 #b80000, 1.5px -1px 0 #9c0000, 3px -2px 0 #950000, 4.5px -3px 0 #8e0000, 6px -4px 0 #880000, 7.5px -5px 0 #810000, 9px -6px 0 #7a0000, 10.5px -7px 0 #740000, 12px -8px 0 #6d0000, 13.5px -9px 0 #670000, 15px -10px 0 #600000, 16.5px -11px 0 #590000, 18px -12px 0 #530000, 19.5px -13px 0 #4c0000, 21px -14px 0 #450000, 22.5px -15px 0 #3f0000, 24px -16px 0 #380000, 25.5px -17px 0 #310000, 27px -18px 0 #2b0000, 0 0 52px rgba(255, 71, 71, 0.5), 0 0 55px rgba(255, 71, 71, 0.5);
+  }
+}
+
+/* line 44, ../../../Projetos/last-christmas/scss/letras.scss */
+h1 {
+  animation: rainbow 2s ease-out infinite alternate;
+}
+
+/*# sourceMappingURL=letras.css.map */
