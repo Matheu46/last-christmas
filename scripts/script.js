@@ -1,7 +1,12 @@
 // Snow from https://codepen.io/radum/pen/xICAB
 
+const body = document.querySelector('body');
 const music = document.querySelector('.music');
-music.play();
+body.addEventListener('click', playMusic);
+
+function playMusic() {
+  music.play();
+}
 
 (function () {
   var COUNT = 300;
