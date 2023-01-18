@@ -1,5 +1,8 @@
 // Snow from https://codepen.io/radum/pen/xICAB
 
+const music = document.querySelector('.music');
+music.play();
+
 (function () {
   var COUNT = 300;
   var masthead = document.querySelector('.sky');
