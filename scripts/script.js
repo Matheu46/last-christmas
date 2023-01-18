@@ -2,10 +2,19 @@
 
 const body = document.querySelector('body');
 const music = document.querySelector('.music');
+
+let play = true;
 body.addEventListener('click', playMusic);
+body.addEventListener('ontouchend', playMusic);
 
 function playMusic() {
-  music.play();
+  if (play) {
+    music.play();
+    play = false;
+  } else {
+    music.pause();
+    play = true;
+  }
 }
 
 (function () {
