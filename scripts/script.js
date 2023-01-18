@@ -8,6 +8,7 @@ body.addEventListener('click', playMusic);
 body.addEventListener('ontouchend', playMusic);
 
 function playMusic() {
+  console.log(play);
   if (play) {
     music.play();
     play = false;
